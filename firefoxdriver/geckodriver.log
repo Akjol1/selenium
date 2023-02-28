@@ -1,0 +1,4 @@
+1677594077384	geckodriver	INFO	Listening on 127.0.0.1:56407
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/315/usr/lib/firefox/firefox: not found
+1677594077390	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4FE9Ft"
+/snap/firefox/current/firefox.launcher: 46: exec: /snap/pycharm-community/315/usr/lib/firefox/firefox: not found
